@@ -1,0 +1,1718 @@
+[3] 11:11:27: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\NeoEnergia\NeoEnergia.tws'
+[3] 11:11:27: Log level: 4
+[3] 11:11:27: Release: 24.2.0.1807
+[3] 11:11:27: Execution Approval is disabled.
+[3] 11:11:27: No service discovery configured.
+[3] 11:11:27:  + AccessibilityTestingUI: AccessibilityTestingUI 24.2.0.1807 (1807)
+[3] 11:11:27:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 11:11:27:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 11:11:27:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.2.0.1807 (1807)
+[3] 11:11:27:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.2.0.1807 (1807)
+[3] 11:11:27:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.2.0.1807 (1807)
+[3] 11:11:27:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.2.0.1807 (1807)
+[3] 11:11:27:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.2.0.1807 (1807)
+    + : SAPSolutionManagerIntegration 24.2.0.1807 (1807)
+[3] 11:11:27:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.2.0.1807 (1807)
+[3] 11:11:27:  + RemoteControl: RemoteControlAddIn 24.2.0.1807 (1807)
+[3] 11:11:27:  + Reporting: ReportingAddIn 24.2.0.1807 (1807)
+[3] 11:11:27:  + ReportingUI: ReportingUIAddIn 24.2.0.1807 (1807)
+[3] 11:11:27:  + RequirementsManagementAddIn: RequirementsManagement 24.2.0.1807 (1807)
+[3] 11:11:27:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.2.0.1807 (1807)
+[3] 11:11:27:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.2.0.1807 (1807)
+[3] 11:11:28:  + TestCaseDesign: TestCaseDesign 24.2.0.1807 (1807)
+[3] 11:11:28: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\NeoEnergia\NeoEnergia.tws'
+[2] 11:11:28: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 11:11:44:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:11:44:  ShowStatusInfo: 'Ready'
+[4] 11:11:44:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:11:44:  ShowStatusInfo: 'Ready'
+[4] 11:11:44:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:11:44:  ShowStatusInfo: 'Ready'
+[4] 11:11:44:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:11:44:  ShowStatusInfo: 'Ready'
+[4] 11:11:44:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:11:44:  ShowStatusInfo: 'Refresh all finished'
+[3] 11:11:44: OpenWorkspace took 00:00:20.3821221 to finish
+[2] 11:11:44: Common repository is not available
+[4] 11:11:49:  ShowStatusInfo: 'Ready'
+[4] 11:11:54:  ShowStatusInfo: '1 object selected'
+[4] 11:11:56:  ShowStatusInfo: 'Ready'
+[4] 11:11:56:  ShowStatusInfo: '1 object selected'
+[4] 11:12:01:  ShowStatusInfo: 'Ready'
+[4] 11:12:01:  ShowStatusInfo: '1 object selected'
+[4] 11:12:03:  ShowStatusInfo: 'Ready'
+[4] 11:12:03:  ShowStatusInfo: '1 object selected'
+[4] 11:12:05:  ShowStatusInfo: 'Ready'
+[4] 11:12:09:  ShowStatusInfo: '1 object selected'
+[4] 11:12:09:  ShowStatusInfo: 'Ready'
+[4] 11:12:21:  ShowStatusInfo: '1 object selected'
+[4] 11:12:26:  ShowStatusInfo: 'Ready'
+[4] 11:13:02:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:13:02:  ShowStatusInfo: 'Ready'
+[4] 11:13:02:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:13:02:  ShowStatusInfo: 'Ready'
+[4] 11:13:02:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:13:03:  ShowStatusInfo: 'Ready'
+[4] 11:13:03:  ShowStatusInfo: '1 object selected'
+[4] 11:13:04:  ShowStatusInfo: 'Ready'
+[4] 11:13:04:  ShowStatusInfo: '1 object selected'
+[4] 11:13:05:  ShowStatusInfo: 'Ready'
+[4] 11:13:05:  ShowStatusInfo: '1 object selected'
+[4] 11:13:07:  ShowStatusInfo: 'Ready'
+[4] 11:13:07:  ShowStatusInfo: '1 object selected'
+[4] 11:13:08:  ShowStatusInfo: 'Ready'
+[4] 11:13:08:  ShowStatusInfo: '1 object selected'
+[4] 11:13:10:  ShowStatusInfo: 'Ready'
+[4] 11:13:10:  ShowStatusInfo: '1 object selected'
+[4] 11:13:12:  ShowStatusInfo: 'Ready'
+[4] 11:13:29:  ShowStatusInfo: '1 object selected'
+[4] 11:13:29:  ShowStatusInfo: 'Ready'
+[4] 11:13:33:  ShowStatusInfo: '1 object selected'
+[4] 11:13:38:  ShowStatusInfo: 'Ready'
+[4] 11:14:14:  ShowStatusInfo: 'Move'
+[4] 11:14:17:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:14:17:  ShowStatusInfo: 'Ready'
+[4] 11:14:17:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:14:17:  ShowStatusInfo: 'Ready'
+[4] 11:14:17:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:14:19:  ShowStatusInfo: 'Ready'
+[4] 11:14:19:  ShowStatusInfo: 'Create TestStep from Module'
+[4] 11:14:23:  ShowStatusInfo: 'Ready'
+[4] 11:14:23:  ShowStatusInfo: 'Create TestStep from Module finalizing ...'
+[4] 11:14:23:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:14:23:  ShowStatusInfo: 'Ready'
+[4] 11:14:23:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:14:23:  ShowStatusInfo: 'Ready'
+[4] 11:14:23:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:14:23:  ShowStatusInfo: 'Ready'
+[4] 11:14:23:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:14:23:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:14:23:  ShowStatusInfo: 'Ready'
+[4] 11:14:23:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:14:24:  ShowStatusInfo: 'Create TestStep from Module finished'
+[3] 11:14:24: Task 'Create TestStep from Module' finished
+[4] 11:14:24:  ShowStatusInfo: 'Ready'
+[4] 11:14:24:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:14:24:  ShowStatusInfo: 'Ready'
+[4] 11:14:24:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:14:24:  ShowStatusInfo: 'Ready'
+[4] 11:14:24:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:14:24:  ShowStatusInfo: 'Ready'
+[4] 11:14:24:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:14:24:  ShowStatusInfo: 'Ready'
+[4] 11:14:24:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:14:24:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:14:26:  ShowStatusInfo: '1 object selected'
+[4] 11:14:26:  ShowStatusInfo: 'Ready'
+[3] 11:14:27: Task 'Delete' started on '/TestCases/NeoEnergia/SAP/Piloto/Process/Barra de Menu Superior | SAP'
+[4] 11:14:27:  ShowStatusInfo: 'Delete'
+[4] 11:14:27:  ShowStatusInfo: 'Ready'
+[4] 11:14:28:  ShowStatusInfo: 'Delete Barra de Menu Superior | SAP finalizing ...'
+[4] 11:14:28:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:14:28:  ShowStatusInfo: 'Ready'
+[4] 11:14:28:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:14:28:  ShowStatusInfo: 'Ready'
+[4] 11:14:28:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:14:28:  ShowStatusInfo: 'Ready'
+[4] 11:14:28:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:14:28:  ShowStatusInfo: 'Ready'
+[4] 11:14:28:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:14:28:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:14:28:  ShowStatusInfo: 'Delete Barra de Menu Superior | SAP finished'
+[3] 11:14:28: Task 'Delete' Barra de Menu Superior | SAP finished
+[4] 11:14:28:  ShowStatusInfo: 'Ready'
+[4] 11:14:30:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:14:30:  ShowStatusInfo: 'Ready'
+[4] 11:14:30:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:14:30:  ShowStatusInfo: 'Ready'
+[4] 11:14:30:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:14:35:  ShowStatusInfo: 'Ready'
+[4] 11:14:41:  ShowStatusInfo: '1 object selected'
+[4] 11:14:41:  ShowStatusInfo: 'Ready'
+[4] 11:14:47:  ShowStatusInfo: '1 object selected'
+[4] 11:14:47:  ShowStatusInfo: 'Ready'
+[4] 11:15:15:  ShowStatusInfo: '1 object selected'
+[4] 11:15:15:  ShowStatusInfo: 'Ready'
+[4] 11:15:15:  ShowStatusInfo: '1 object selected'
+[4] 11:15:16:  ShowStatusInfo: 'Ready'
+[4] 11:16:16:  ShowStatusInfo: '1 object selected'
+[4] 11:16:16:  ShowStatusInfo: 'Ready'
+[4] 11:16:51:  ShowStatusInfo: '1 object selected'
+[4] 11:16:54:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:16:54:  ShowStatusInfo: 'Ready'
+[4] 11:16:54:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:16:54:  ShowStatusInfo: 'Ready'
+[4] 11:16:54:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:16:55:  ShowStatusInfo: 'Ready'
+[4] 11:16:55:  ShowStatusInfo: '1 object selected'
+[4] 11:17:02:  ShowStatusInfo: 'Ready'
+[4] 11:17:27:  ShowStatusInfo: '1 object selected'
+[4] 11:17:27:  ShowStatusInfo: 'Ready'
+[3] 11:17:33: Task 'Create Attribute' started on '/TestCaseDesign/Neoenergia'
+[4] 11:17:33:  ShowStatusInfo: 'Create Attribute'
+[4] 11:17:33:  ShowStatusInfo: 'Ready'
+[4] 11:17:33:  ShowStatusInfo: 'Attribute finalizing ...'
+[4] 11:17:33:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:17:33:  ShowStatusInfo: 'Ready'
+[4] 11:17:33:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:17:33:  ShowStatusInfo: 'Ready'
+[4] 11:17:33:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:17:33:  ShowStatusInfo: 'Ready'
+[4] 11:17:33:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:17:33:  ShowStatusInfo: 'Ready'
+[4] 11:17:33:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:17:33:  ShowStatusInfo: 'Attribute finished'
+[3] 11:17:33: Task 'Create Attribute' finished
+[4] 11:17:33:  ShowStatusInfo: 'Ready'
+[4] 11:17:38:  ShowStatusInfo: '1 object selected'
+[4] 11:17:39:  ShowStatusInfo: 'Ready'
+[4] 11:17:42:  ShowStatusInfo: '1 object selected'
+[4] 11:17:42:  ShowStatusInfo: 'Ready'
+[3] 11:17:43: Task 'Create Instance' started on '/TestCaseDesign/Neoenergia/Nome da empresa'
+[4] 11:17:43:  ShowStatusInfo: 'Create Instance'
+[4] 11:17:43:  ShowStatusInfo: 'Instance finalizing ...'
+[4] 11:17:43:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:17:43:  ShowStatusInfo: 'Ready'
+[4] 11:17:43:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:17:43:  ShowStatusInfo: 'Ready'
+[4] 11:17:43:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:17:43:  ShowStatusInfo: 'Ready'
+[4] 11:17:43:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:17:43:  ShowStatusInfo: 'Ready'
+[4] 11:17:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:17:43:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:17:43:  ShowStatusInfo: 'Instance finished'
+[3] 11:17:43: Task 'Create Instance' finished
+[4] 11:17:44:  ShowStatusInfo: 'Ready'
+[4] 11:17:51:  ShowStatusInfo: '1 object selected'
+[4] 11:17:52:  ShowStatusInfo: 'Ready'
+[3] 11:17:52: Task 'Delete' started on '/TestCaseDesign/Neoenergia/Nome da empresa'
+[4] 11:17:52:  ShowStatusInfo: 'Delete'
+[4] 11:17:52:  ShowStatusInfo: 'Ready'
+[4] 11:17:52:  ShowStatusInfo: 'Delete Nome da empresa finalizing ...'
+[4] 11:17:52:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:17:52:  ShowStatusInfo: 'Ready'
+[4] 11:17:52:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:17:52:  ShowStatusInfo: 'Ready'
+[4] 11:17:52:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:17:52:  ShowStatusInfo: 'Ready'
+[4] 11:17:52:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:17:52:  ShowStatusInfo: 'Ready'
+[4] 11:17:52:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:17:52:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:17:52:  ShowStatusInfo: 'Delete Nome da empresa finished'
+[3] 11:17:52: Task 'Delete' Nome da empresa finished
+[4] 11:17:52:  ShowStatusInfo: 'Ready'
+[4] 11:18:15:  ShowStatusInfo: '1 object selected'
+[4] 11:18:15:  ShowStatusInfo: 'Ready'
+[4] 11:18:16:  ShowStatusInfo: '1 object selected'
+[4] 11:18:21:  ShowStatusInfo: 'Ready'
+[4] 11:19:24:  ShowStatusInfo: '1 object selected'
+[4] 11:19:25:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:19:25:  ShowStatusInfo: 'Ready'
+[4] 11:19:25:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:19:25:  ShowStatusInfo: 'Ready'
+[4] 11:19:25:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:19:29:  ShowStatusInfo: 'Ready'
+[4] 11:19:43:  ShowStatusInfo: '1 object selected'
+[4] 11:19:43:  ShowStatusInfo: 'Ready'
+[4] 11:19:57:  ShowStatusInfo: '1 object selected'
+[4] 11:19:57:  ShowStatusInfo: 'Ready'
+[4] 11:20:02:  ShowStatusInfo: '1 object selected'
+[4] 11:20:07:  ShowStatusInfo: 'Ready'
+[4] 11:20:13:  ShowStatusInfo: '1 object selected'
+[4] 11:20:13:  ShowStatusInfo: 'Ready'
+[3] 11:20:14: Task 'Delete' started on '/TestCaseDesign/Neoenergia/Instances'
+[4] 11:20:14:  ShowStatusInfo: 'Delete'
+[4] 11:20:14:  ShowStatusInfo: 'Ready'
+[4] 11:20:14:  ShowStatusInfo: 'Delete Instances finalizing ...'
+[4] 11:20:14:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:20:14:  ShowStatusInfo: 'Ready'
+[4] 11:20:14:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:20:14:  ShowStatusInfo: 'Ready'
+[4] 11:20:14:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:20:14:  ShowStatusInfo: 'Ready'
+[4] 11:20:14:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:20:14:  ShowStatusInfo: 'Ready'
+[4] 11:20:14:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:20:14:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:20:14:  ShowStatusInfo: 'Delete Instances finished'
+[3] 11:20:14: Task 'Delete' Instances finished
+[4] 11:20:14:  ShowStatusInfo: 'Ready'
+[4] 11:20:16:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:20:16:  ShowStatusInfo: 'Ready'
+[4] 11:20:16:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:20:16:  ShowStatusInfo: 'Ready'
+[4] 11:20:16:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:20:18:  ShowStatusInfo: '1 object selected'
+[4] 11:20:18:  ShowStatusInfo: 'Ready'
+[3] 11:20:19: Task 'Delete' started on '/TestCases/NeoEnergia/SAP/TemplateInstance of Piloto_Template'
+[4] 11:20:19:  ShowStatusInfo: 'Delete'
+[4] 11:20:19:  ShowStatusInfo: 'Ready'
+[4] 11:20:19:  ShowStatusInfo: 'Delete TemplateInstance of Piloto_Template finalizing ...'
+[4] 11:20:19:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:20:19:  ShowStatusInfo: 'Ready'
+[4] 11:20:19:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:20:19:  ShowStatusInfo: 'Ready'
+[4] 11:20:19:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:20:19:  ShowStatusInfo: 'Ready'
+[4] 11:20:19:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:20:19:  ShowStatusInfo: 'Ready'
+[4] 11:20:19:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:20:19:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:20:19:  ShowStatusInfo: 'Delete TemplateInstance of Piloto_Template finished'
+[3] 11:20:19: Task 'Delete' TemplateInstance of Piloto_Template finished
+[4] 11:20:19:  ShowStatusInfo: 'Ready'
+[4] 11:20:21:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:20:21:  ShowStatusInfo: 'Ready'
+[4] 11:20:21:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:20:21:  ShowStatusInfo: 'Ready'
+[4] 11:20:21:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:20:24:  ShowStatusInfo: '1 object selected'
+[4] 11:20:24:  ShowStatusInfo: 'Ready'
+[3] 11:20:27: Task 'Complete Instances All combinations' started on '/TestCaseDesign/Neoenergia'
+[4] 11:20:27:  ShowStatusInfo: 'Complete Instances All combinations'
+[4] 11:20:27:  ShowStatusInfo: 'Ready'
+[4] 11:20:36:  ShowStatusInfo: 'All combinations finalizing ...'
+[4] 11:20:36:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:20:36:  ShowStatusInfo: 'Ready'
+[4] 11:20:36:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:20:36:  ShowStatusInfo: 'Ready'
+[4] 11:20:36:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:20:36:  ShowStatusInfo: 'Ready'
+[4] 11:20:36:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:20:36:  ShowStatusInfo: 'Ready'
+[4] 11:20:36:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:20:36:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:20:36:  ShowStatusInfo: 'All combinations finished'
+[3] 11:20:36: Task 'Complete Instances All combinations' finished
+[4] 11:20:40:  ShowStatusInfo: '1 object selected'
+[4] 11:20:40:  ShowStatusInfo: 'Ready'
+[4] 11:20:41:  ShowStatusInfo: '1 object selected'
+[4] 11:20:41:  ShowStatusInfo: 'Ready'
+[3] 11:20:43: Task 'Complete Instances Orthogonal' started on '/TestCaseDesign/Neoenergia'
+[4] 11:20:43:  ShowStatusInfo: 'Complete Instances Orthogonal'
+[4] 11:20:43:  ShowStatusInfo: 'Orthogonal finalizing ...'
+[4] 11:20:43:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:20:43:  ShowStatusInfo: 'Ready'
+[4] 11:20:43:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:20:43:  ShowStatusInfo: 'Ready'
+[4] 11:20:43:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:20:43:  ShowStatusInfo: 'Ready'
+[4] 11:20:43:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:20:43:  ShowStatusInfo: 'Ready'
+[4] 11:20:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:20:43:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:20:43:  ShowStatusInfo: 'Orthogonal finished'
+[3] 11:20:43: Task 'Complete Instances Orthogonal' finished
+[4] 11:20:45:  ShowStatusInfo: 'Ready'
+[4] 11:20:45:  ShowStatusInfo: '1 object selected'
+[4] 11:20:50:  ShowStatusInfo: 'Ready'
+[4] 11:20:54:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:20:54:  ShowStatusInfo: 'Ready'
+[4] 11:20:54:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:20:54:  ShowStatusInfo: 'Ready'
+[4] 11:20:54:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:20:56:  ShowStatusInfo: '1 object selected'
+[4] 11:20:56:  ShowStatusInfo: 'Ready'
+[4] 11:20:57:  ShowStatusInfo: '1 object selected'
+[4] 11:20:57:  ShowStatusInfo: 'Ready'
+[3] 11:20:59: Task 'Check Template' started on '/TestCases/NeoEnergia/SAP/Piloto_Template'
+[4] 11:20:59:  ShowStatusInfo: 'Check Template'
+[4] 11:21:00:  ShowStatusInfo: 'Loading Datasource finished'
+[4] 11:21:01:  ShowStatusInfo: 'Checking Template'
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:21:03:  ShowStatusInfo: 'Ready'
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:21:03:  ShowStatusInfo: 'Ready'
+[4] 11:21:03:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:21:03:  ShowStatusInfo: 'Ready'
+[4] 11:21:03:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:21:03:  ShowStatusInfo: 'Ready'
+[4] 11:21:03:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:21:03:  ShowStatusInfo: 'Ready'
+[4] 11:21:03:  ShowStatusInfo: 'Check Template finalizing ...'
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:21:03:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:21:04:  ShowStatusInfo: 'Ready'
+[4] 11:21:04:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:21:04:  ShowStatusInfo: 'Ready'
+[4] 11:21:04:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:21:04:  ShowStatusInfo: 'Ready'
+[4] 11:21:04:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:21:04:  ShowStatusInfo: 'Ready'
+[4] 11:21:04:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:21:04:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:21:04:  ShowStatusInfo: 'Check Template finished'
+[3] 11:21:04: Task 'Check Template' finished
+[3] 11:21:06: Task 'Create TemplateInstance' started on '/TestCases/NeoEnergia/SAP/Piloto_Template'
+[4] 11:21:06:  ShowStatusInfo: 'Create TemplateInstance'
+[4] 11:21:09:  ShowStatusInfo: 'Loading Datasource finished'
+[4] 11:21:10:  ShowStatusInfo: 'Ready'
+[4] 11:21:10:  ShowStatusInfo: 'TemplateInstance finalizing ...'
+[4] 11:21:10:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:21:10:  ShowStatusInfo: 'Ready'
+[4] 11:21:10:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:21:10:  ShowStatusInfo: 'Ready'
+[4] 11:21:10:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:21:10:  ShowStatusInfo: 'Ready'
+[4] 11:21:10:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:21:10:  ShowStatusInfo: 'Ready'
+[4] 11:21:10:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:21:10:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:21:10:  ShowStatusInfo: 'TemplateInstance finished'
+[3] 11:21:10: Task 'Create TemplateInstance' finished
+[4] 11:21:10:  ShowStatusInfo: 'Ready'
+[4] 11:21:12:  ShowStatusInfo: '1 object selected'
+[4] 11:21:12:  ShowStatusInfo: 'Ready'
+[4] 11:21:14:  ShowStatusInfo: '1 object selected'
+[4] 11:21:14:  ShowStatusInfo: 'Ready'
+[4] 11:21:15:  ShowStatusInfo: '1 object selected'
+[4] 11:21:15:  ShowStatusInfo: 'Ready'
+[4] 11:21:16:  ShowStatusInfo: '1 object selected'
+[4] 11:21:16:  ShowStatusInfo: 'Ready'
+[4] 11:21:21:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:21:21:  ShowStatusInfo: 'Ready'
+[4] 11:21:21:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:21:21:  ShowStatusInfo: 'Ready'
+[4] 11:21:21:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:21:26:  ShowStatusInfo: 'Ready'
+[4] 11:21:37:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:21:37:  ShowStatusInfo: 'Ready'
+[4] 11:21:37:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:21:37:  ShowStatusInfo: 'Ready'
+[4] 11:21:37:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:21:42:  ShowStatusInfo: 'Ready'
+[4] 11:21:43:  ShowStatusInfo: '1 object selected'
+[4] 11:21:44:  ShowStatusInfo: 'Ready'
+[4] 11:21:44:  ShowStatusInfo: '1 object selected'
+[4] 11:21:46:  ShowStatusInfo: 'Ready'
+[4] 11:21:46:  ShowStatusInfo: '1 object selected'
+[4] 11:21:48:  ShowStatusInfo: 'Ready'
+[4] 11:21:48:  ShowStatusInfo: '1 object selected'
+[4] 11:21:53:  ShowStatusInfo: 'Ready'
+[4] 11:22:10:  ShowStatusInfo: '1 object selected'
+[4] 11:22:10:  ShowStatusInfo: 'Ready'
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: 'Ready'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:14:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:14:  ShowStatusInfo: ''
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: ''
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: ''
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: ''
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: ''
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: ''
+[4] 11:22:15:  ShowStatusInfo: 'Move'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Move'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Move'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Move'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Move'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Move'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: ''
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:15:  ShowStatusInfo: 'Create TestStepFolder from TestCase'
+[4] 11:22:15:  ShowStatusInfo: 'Ready'
+[4] 11:22:17:  ShowStatusInfo: ''
+[4] 11:22:17:  ShowStatusInfo: 'Ready'
+[4] 11:22:17:  ShowStatusInfo: ''
+[4] 11:22:17:  ShowStatusInfo: 'Ready'
+[4] 11:22:17:  ShowStatusInfo: ''
+[4] 11:22:17:  ShowStatusInfo: 'Ready'
+[4] 11:22:17:  ShowStatusInfo: ''
+[4] 11:22:17:  ShowStatusInfo: 'Ready'
+[4] 11:22:17:  ShowStatusInfo: ''
+[4] 11:22:17:  ShowStatusInfo: 'Ready'
+[4] 11:22:17:  ShowStatusInfo: ''
+[4] 11:22:17:  ShowStatusInfo: 'Ready'
+[4] 11:22:17:  ShowStatusInfo: ''
+[4] 11:22:17:  ShowStatusInfo: 'Create ExecutionList'
+[4] 11:22:17:  ShowStatusInfo: 'Create ExecutionEntry'
+[4] 11:22:19:  ShowStatusInfo: 'Ready'
+[4] 11:22:19:  ShowStatusInfo: 'Create ExecutionEntry finalizing ...'
+[4] 11:22:19:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:22:19:  ShowStatusInfo: 'Ready'
+[4] 11:22:19:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:22:19:  ShowStatusInfo: 'Ready'
+[4] 11:22:19:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:22:19:  ShowStatusInfo: 'Ready'
+[4] 11:22:19:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:22:19:  ShowStatusInfo: 'Ready'
+[4] 11:22:19:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:22:19:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:22:19:  ShowStatusInfo: 'Create ExecutionEntry finished'
+[3] 11:22:19: Task 'Create ExecutionEntry' finished
+[4] 11:22:19:  ShowStatusInfo: 'Ready'
+[4] 11:22:20:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:22:20:  ShowStatusInfo: 'Ready'
+[4] 11:22:20:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:22:20:  ShowStatusInfo: 'Ready'
+[4] 11:22:20:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:22:20:  ShowStatusInfo: 'Ready'
+[4] 11:22:20:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:22:20:  ShowStatusInfo: 'Ready'
+[4] 11:22:20:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:22:20:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:22:23:  ShowStatusInfo: '1 object selected'
+[4] 11:22:23:  ShowStatusInfo: 'Ready'
+[4] 11:22:23:  ShowStatusInfo: '1 object selected'
+[4] 11:22:23:  ShowStatusInfo: 'Ready'
+[4] 11:22:27:  ShowStatusInfo: '1 object selected'
+[4] 11:22:32:  ShowStatusInfo: 'Ready'
+[4] 11:22:34:  ShowStatusInfo: '1 object selected'
+[4] 11:22:34:  ShowStatusInfo: 'Ready'
+[4] 11:22:36:  ShowStatusInfo: '1 object selected'
+[4] 11:22:40:  ShowStatusInfo: 'Ready'
+[4] 11:22:41:  ShowStatusInfo: '1 object selected'
+[4] 11:22:41:  ShowStatusInfo: 'Ready'
+[4] 11:22:45:  ShowStatusInfo: '1 object selected'
+[4] 11:22:46:  ShowStatusInfo: 'Ready'
+[4] 11:22:47:  ShowStatusInfo: '1 object selected'
+[4] 11:22:47:  ShowStatusInfo: 'Ready'
+[3] 11:22:54: Task 'Print Report ... ExecutionEntries with detailed Logs' started on '/Execution/ExecutionLists/Neoenergia/Piloto'
+[4] 11:22:54:  ShowStatusInfo: 'Print Report ... ExecutionEntries with detailed Logs'
+[3] 11:22:54: Search started on 1 objects for query '->SELF:ExecutionList'
+[3] 11:22:54: Searcher found 1 results in 4,6716 ms
+[3] 11:22:54: Search started on 1 objects for query '=>SUBPARTS:ExecutionEntry'
+[3] 11:22:54: Searcher found 5 results in 3,8808 ms
+[3] 11:22:54: Search started on 5 objects for query '->ActualLog:ExecutionTestCaseLog'
+[3] 11:22:54: Searcher found 1 results in 18,9725 ms
+[3] 11:22:54: Search started on 1 objects for query '->ExecutionSubLogs'
+[2] 11:22:54: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=24.2.0.1807, Culture=pt-BR, PublicKeyToken=null
+[2] 11:22:54: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=24.2.0.1807, Culture=pt, PublicKeyToken=null
+[3] 11:22:54: Searcher found 84 results in 66,8744 ms
+[3] 11:22:54: Search started on 84 objects for query '->SELF:ExecutionContainerLog'
+[3] 11:22:54: Searcher found 0 results in 0,1721 ms
+[3] 11:22:54: Search started on 84 objects for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:54: Searcher found 84 results in 0,1476 ms
+[3] 11:22:54: Search started on 84 objects for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:54: Searcher found 67 results in 3,2826 ms
+[3] 11:22:54: Search started on 1 objects for query '->TestStepLogsInRightOrder:ExecutionTestStepLog'
+[3] 11:22:54: Searcher found 84 results in 3,0164 ms
+[3] 11:22:54: Search started on 84 objects for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:54: Searcher found 13 results in 20,9389 ms
+[3] 11:22:54: Search started on 'Piloto' for query '->SELF:ExecutionList'
+[3] 11:22:54: Searcher found 1 results in 0,972 ms
+[3] 11:22:55: Search started on 'Piloto' for query '=>SUBPARTS:ExecutionEntry'
+[3] 11:22:55: Searcher found 5 results in 0,3449 ms
+[3] 11:22:55: Search started on 'Piloto' for query '->ActualLog:ExecutionTestCaseLog'
+[3] 11:22:55: Searcher found 1 results in 0,1503 ms
+[3] 11:22:55: Search started on 'Piloto' for query '->ExecutionSubLogs'
+[3] 11:22:55: Searcher found 84 results in 0,6545 ms
+[3] 11:22:55: Search started on 'Acessar SAP GUI 770' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,1311 ms
+[3] 11:22:55: Search started on 'Acessar SAP GUI 770' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0534 ms
+[3] 11:22:55: Search started on 'Acessar SAP GUI 770' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2499 ms
+[3] 11:22:55: Search started on 'Barra de Menu Superior' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,1025 ms
+[3] 11:22:55: Search started on 'Barra de Menu Superior' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0241 ms
+[3] 11:22:55: Search started on 'Barra de Menu Superior' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,3275 ms
+[3] 11:22:55: Search started on 'Maximizar' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2405 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0413 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0176 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1768 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1905 ms
+[3] 11:22:55: Search started on 'Informar usuário e senha' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,036 ms
+[3] 11:22:55: Search started on 'Informar usuário e senha' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0248 ms
+[3] 11:22:55: Search started on 'Informar usuário e senha' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 2 results in 6,3092 ms
+[3] 11:22:55: Search started on 'User' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2027 ms
+[3] 11:22:55: Search started on 'Password' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2312 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0295 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0197 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1473 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0212 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0167 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1392 ms
+[3] 11:22:55: Search started on 'Realizar Login' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0194 ms
+[3] 11:22:55: Search started on 'Realizar Login' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0169 ms
+[3] 11:22:55: Search started on 'Realizar Login' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 3 results in 0,1528 ms
+[3] 11:22:55: Search started on 'User' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1508 ms
+[3] 11:22:55: Search started on 'Password' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1487 ms
+[3] 11:22:55: Search started on 'Enter' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,144 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0219 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0167 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1421 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0213 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0159 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1897 ms
+[3] 11:22:55: Search started on 'Informar Transanção' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0561 ms
+[3] 11:22:55: Search started on 'Informar Transanção' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0253 ms
+[3] 11:22:55: Search started on 'Informar Transanção' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,246 ms
+[3] 11:22:55: Search started on 'Informar Transações' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2173 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,03 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0469 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1752 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0241 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0161 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1627 ms
+[3] 11:22:55: Search started on 'Confirmar Transação' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,021 ms
+[3] 11:22:55: Search started on 'Confirmar Transação' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0164 ms
+[3] 11:22:55: Search started on 'Confirmar Transação' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1456 ms
+[3] 11:22:55: Search started on 'Outras ações' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,143 ms
+[3] 11:22:55: Search started on 'Informar Número Pessoal' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,021 ms
+[3] 11:22:55: Search started on 'Informar Número Pessoal' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,016 ms
+[3] 11:22:55: Search started on 'Informar Número Pessoal' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1418 ms
+[3] 11:22:55: Search started on 'Nº pessoal' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1407 ms
+[3] 11:22:55: Search started on 'Confirmar Número Pessoal' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0212 ms
+[3] 11:22:55: Search started on 'Confirmar Número Pessoal' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0151 ms
+[3] 11:22:55: Search started on 'Confirmar Número Pessoal' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1432 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1403 ms
+[3] 11:22:55: Search started on 'Informar INFOTIPO' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0196 ms
+[3] 11:22:55: Search started on 'Informar INFOTIPO' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0159 ms
+[3] 11:22:55: Search started on 'Informar INFOTIPO' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1456 ms
+[3] 11:22:55: Search started on 'Infotipo' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1568 ms
+[3] 11:22:55: Search started on 'Confirmar INFOTIPO' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0213 ms
+[3] 11:22:55: Search started on 'Confirmar INFOTIPO' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0169 ms
+[3] 11:22:55: Search started on 'Confirmar INFOTIPO' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1386 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1374 ms
+[3] 11:22:55: Search started on 'Informar Período' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0217 ms
+[3] 11:22:55: Search started on 'Informar Período' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0157 ms
+[3] 11:22:55: Search started on 'Informar Período' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 2 results in 0,1439 ms
+[3] 11:22:55: Search started on 'de' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1316 ms
+[3] 11:22:55: Search started on 'até' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1293 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0188 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0158 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1249 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0196 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0153 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1252 ms
+[3] 11:22:55: Search started on 'Acessar "Ir para Entrada em Lista"' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0191 ms
+[3] 11:22:55: Search started on 'Acessar "Ir para Entrada em Lista"' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0158 ms
+[3] 11:22:55: Search started on 'Acessar "Ir para Entrada em Lista"' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1468 ms
+[3] 11:22:55: Search started on 'Ir para' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,214 ms
+[3] 11:22:55: Search started on 'Entrada em lista' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1809 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0236 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0165 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,139 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,02 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0144 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1328 ms
+[3] 11:22:55: Search started on 'Página nova para Novo registro' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0195 ms
+[3] 11:22:55: Search started on 'Página nova para Novo registro' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0147 ms
+[3] 11:22:55: Search started on 'Página nova para Novo registro' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1382 ms
+[3] 11:22:55: Search started on 'Página nova (Ctrl+F6)' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1392 ms
+[3] 11:22:55: Search started on 'Informar Data de Inicio' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,019 ms
+[3] 11:22:55: Search started on 'Informar Data de Inicio' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0152 ms
+[3] 11:22:55: Search started on 'Informar Data de Inicio' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1377 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2599 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0213 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0159 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1396 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1331 ms
+[3] 11:22:55: Search started on 'Informar Hora de Inicio' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0208 ms
+[3] 11:22:55: Search started on 'Informar Hora de Inicio' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0174 ms
+[3] 11:22:55: Search started on 'Informar Hora de Inicio' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,2024 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1529 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0247 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0173 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1587 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1517 ms
+[3] 11:22:55: Search started on 'Informar Tipo de Evento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0206 ms
+[3] 11:22:55: Search started on 'Informar Tipo de Evento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0141 ms
+[3] 11:22:55: Search started on 'Informar Tipo de Evento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1409 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1343 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,019 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,015 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1361 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1564 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0206 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0145 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1351 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1356 ms
+[3] 11:22:55: Search started on 'Informar Motivo' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0213 ms
+[3] 11:22:55: Search started on 'Informar Motivo' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,015 ms
+[3] 11:22:55: Search started on 'Informar Motivo' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1703 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2121 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0357 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0154 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1385 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1357 ms
+[3] 11:22:55: Search started on 'Página nova para Novo registro' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0212 ms
+[3] 11:22:55: Search started on 'Página nova para Novo registro' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,016 ms
+[3] 11:22:55: Search started on 'Página nova para Novo registro' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1366 ms
+[3] 11:22:55: Search started on 'Página nova (Ctrl+F6)' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1732 ms
+[3] 11:22:55: Search started on 'Informar Data de Inicio' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0204 ms
+[3] 11:22:55: Search started on 'Informar Data de Inicio' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0232 ms
+[3] 11:22:55: Search started on 'Informar Data de Inicio' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1681 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1616 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0196 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0236 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,151 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1705 ms
+[3] 11:22:55: Search started on 'Informar Hora de Inicio' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0295 ms
+[3] 11:22:55: Search started on 'Informar Hora de Inicio' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0234 ms
+[3] 11:22:55: Search started on 'Informar Hora de Inicio' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1694 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1626 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0285 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0231 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1641 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1746 ms
+[3] 11:22:55: Search started on 'Informar Tipo de Evento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0285 ms
+[3] 11:22:55: Search started on 'Informar Tipo de Evento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0233 ms
+[3] 11:22:55: Search started on 'Informar Tipo de Evento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,3469 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2907 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,055 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0334 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,3933 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2637 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0482 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0476 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,2771 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1706 ms
+[3] 11:22:55: Search started on 'Informar Motivo' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0441 ms
+[3] 11:22:55: Search started on 'Informar Motivo' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0162 ms
+[3] 11:22:55: Search started on 'Informar Motivo' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,2015 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1816 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,043 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,024 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1746 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2611 ms
+[3] 11:22:55: Search started on 'Ordenar dados' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0405 ms
+[3] 11:22:55: Search started on 'Ordenar dados' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0359 ms
+[3] 11:22:55: Search started on 'Ordenar dados' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,2831 ms
+[3] 11:22:55: Search started on 'Ordenar (Shift+F4)' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1842 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0373 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0382 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2326 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0305 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0216 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2058 ms
+[3] 11:22:55: Search started on 'Salvar Apontamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0636 ms
+[3] 11:22:55: Search started on 'Salvar Apontamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0162 ms
+[3] 11:22:55: Search started on 'Salvar Apontamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,246 ms
+[3] 11:22:55: Search started on 'Gravar (Ctrl+S)' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1649 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0426 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0255 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1488 ms
+[3] 11:22:55: Search started on 'Informar Número Pessoal com zero' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0209 ms
+[3] 11:22:55: Search started on 'Informar Número Pessoal com zero' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0214 ms
+[3] 11:22:55: Search started on 'Informar Número Pessoal com zero' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1524 ms
+[3] 11:22:55: Search started on 'Nº pessoal' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1479 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0204 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0289 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1535 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1488 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0545 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0269 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,145 ms
+[3] 11:22:55: Search started on 'Abrir janela GUI Nova' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0194 ms
+[3] 11:22:55: Search started on 'Abrir janela GUI Nova' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0244 ms
+[3] 11:22:55: Search started on 'Abrir janela GUI Nova' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1664 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1552 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0291 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0205 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1459 ms
+[3] 11:22:55: Search started on 'Informar Transanção' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0189 ms
+[3] 11:22:55: Search started on 'Informar Transanção' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0233 ms
+[3] 11:22:55: Search started on 'Informar Transanção' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1656 ms
+[3] 11:22:55: Search started on 'Informar Transações' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1686 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0294 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0234 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1474 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0201 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0254 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1438 ms
+[3] 11:22:55: Search started on 'Confirmar Transação' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0289 ms
+[3] 11:22:55: Search started on 'Confirmar Transação' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0155 ms
+[3] 11:22:55: Search started on 'Confirmar Transação' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1651 ms
+[3] 11:22:55: Search started on 'Outras ações' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1492 ms
+[3] 11:22:55: Search started on 'Informar Número Pessoal' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0205 ms
+[3] 11:22:55: Search started on 'Informar Número Pessoal' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0163 ms
+[3] 11:22:55: Search started on 'Informar Número Pessoal' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 3 results in 0,158 ms
+[3] 11:22:55: Search started on 'Nº pessoal' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1612 ms
+[3] 11:22:55: Search started on 'Esquema avaliação' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1638 ms
+[3] 11:22:55: Search started on 'Avaliação até data' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1627 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0208 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,016 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1406 ms
+[3] 11:22:55: Search started on 'Informar Parâmetros' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0828 ms
+[3] 11:22:55: Search started on 'Informar Parâmetros' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0152 ms
+[3] 11:22:55: Search started on 'Informar Parâmetros' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 3 results in 0,1791 ms
+[3] 11:22:55: Search started on 'Esquema avaliação' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1726 ms
+[3] 11:22:55: Search started on 'Cálc.retr.obrig.desde data' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1608 ms
+[3] 11:22:55: Search started on 'Avaliação até data' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2208 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0319 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,015 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2284 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,036 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0246 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1573 ms
+[3] 11:22:55: Search started on 'Acionar Executar' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0261 ms
+[3] 11:22:55: Search started on 'Acionar Executar' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0297 ms
+[3] 11:22:55: Search started on 'Acionar Executar' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1705 ms
+[3] 11:22:55: Search started on 'Menu de ações' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1732 ms
+[3] 11:22:55: Search started on 'Validar confirmação dos apontamentos' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0228 ms
+[3] 11:22:55: Search started on 'Validar confirmação dos apontamentos' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0292 ms
+[3] 11:22:55: Search started on 'Validar confirmação dos apontamentos' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 4 results in 0,1626 ms
+[3] 11:22:55: Search started on 'Nºs pessoal selecionados_Label' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,147 ms
+[3] 11:22:55: Search started on '1_Label' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1441 ms
+[3] 11:22:55: Search started on 'calculado com êxito_Label' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1436 ms
+[3] 11:22:55: Search started on '1_Label_1' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1266 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0218 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0162 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,126 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0203 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0164 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1249 ms
+[3] 11:22:55: Search started on 'Abrir janela GUI Nova' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0272 ms
+[3] 11:22:55: Search started on 'Abrir janela GUI Nova' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0167 ms
+[3] 11:22:55: Search started on 'Abrir janela GUI Nova' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1291 ms
+[3] 11:22:55: Search started on 'Keys' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1948 ms
+[3] 11:22:55: Search started on 'Informar Transanção PT_BALL00' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0268 ms
+[3] 11:22:55: Search started on 'Informar Transanção PT_BALL00' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0167 ms
+[3] 11:22:55: Search started on 'Informar Transanção PT_BALL00' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1294 ms
+[3] 11:22:55: Search started on 'Informar Transações' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1285 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0247 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0162 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1332 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0205 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0166 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1258 ms
+[3] 11:22:55: Search started on 'Confirmar Transação' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0209 ms
+[3] 11:22:55: Search started on 'Confirmar Transação' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0156 ms
+[3] 11:22:55: Search started on 'Confirmar Transação' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,125 ms
+[3] 11:22:55: Search started on 'Outras ações' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1251 ms
+[3] 11:22:55: Search started on 'Acionar botão Chamar Variante' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0212 ms
+[3] 11:22:55: Search started on 'Acionar botão Chamar Variante' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,016 ms
+[3] 11:22:55: Search started on 'Acionar botão Chamar Variante' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1271 ms
+[3] 11:22:55: Search started on 'Menu de ações' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1308 ms
+[3] 11:22:55: Search started on 'Apagar usuário' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0196 ms
+[3] 11:22:55: Search started on 'Apagar usuário' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0162 ms
+[3] 11:22:55: Search started on 'Apagar usuário' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1282 ms
+[3] 11:22:55: Search started on 'Criado por' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1251 ms
+[3] 11:22:55: Search started on 'Informar VARIANTE' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0194 ms
+[3] 11:22:55: Search started on 'Informar VARIANTE' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0302 ms
+[3] 11:22:55: Search started on 'Informar VARIANTE' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1309 ms
+[3] 11:22:55: Search started on 'Variante' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1258 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0368 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0148 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1373 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0199 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0159 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1256 ms
+[3] 11:22:55: Search started on 'Executar' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0193 ms
+[3] 11:22:55: Search started on 'Executar' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0155 ms
+[3] 11:22:55: Search started on 'Executar' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1294 ms
+[3] 11:22:55: Search started on 'Executar (F8)' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1276 ms
+[3] 11:22:55: Search started on 'Informar numero pessoal e intervalo de tempo' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0303 ms
+[3] 11:22:55: Search started on 'Informar numero pessoal e intervalo de tempo' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0241 ms
+[3] 11:22:55: Search started on 'Informar numero pessoal e intervalo de tempo' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 4 results in 0,2135 ms
+[3] 11:22:55: Search started on 'outro período' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2059 ms
+[3] 11:22:55: Search started on 'Período' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2068 ms
+[3] 11:22:55: Search started on 'até' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2079 ms
+[3] 11:22:55: Search started on 'Nº pessoal' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1935 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0322 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0161 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1347 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,035 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0249 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,16 ms
+[3] 11:22:55: Search started on 'Acionar Executar' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0305 ms
+[3] 11:22:55: Search started on 'Acionar Executar' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0163 ms
+[3] 11:22:55: Search started on 'Acionar Executar' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1543 ms
+[3] 11:22:55: Search started on 'Executar (F8)' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,2026 ms
+[3] 11:22:55: Search started on 'Validar página de Resultados avaliaç.tmps.acumulados - salds.hrs./rubrs.salariais tempo' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0368 ms
+[3] 11:22:55: Search started on 'Validar página de Resultados avaliaç.tmps.acumulados - salds.hrs./rubrs.salariais tempo' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0163 ms
+[3] 11:22:55: Search started on 'Validar página de Resultados avaliaç.tmps.acumulados - salds.hrs./rubrs.salariais tempo' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 1 results in 0,1424 ms
+[3] 11:22:55: Search started on 'Resultados avaliaç.tmps.acumulados - salds.hrs./rubrs.salariais tempo' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1451 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,024 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0214 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1753 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionContainerLog'
+[3] 11:22:55: Searcher found 0 results in 0,0268 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SELF:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 1 results in 0,0202 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->SUBPARTS:ExecutionTestStepValueLog'
+[3] 11:22:55: Searcher found 0 results in 0,1442 ms
+[3] 11:22:55: Search started on 'Piloto' for query '->TestStepLogsInRightOrder:ExecutionTestStepLog'
+[3] 11:22:55: Searcher found 84 results in 1,0744 ms
+[3] 11:22:55: Search started on 'Acessar SAP GUI 770' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,3477 ms
+[3] 11:22:55: Search started on 'Barra de Menu Superior' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,2074 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1106 ms
+[3] 11:22:55: Search started on 'Informar usuário e senha' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1538 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0776 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 1 results in 0,0876 ms
+[3] 11:22:55: Search started on 'Realizar Login' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1708 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0779 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 1 results in 0,0782 ms
+[3] 11:22:55: Search started on 'Informar Transanção' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1471 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,079 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 1 results in 0,1095 ms
+[3] 11:22:55: Search started on 'Confirmar Transação' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1028 ms
+[3] 11:22:55: Search started on 'Informar Número Pessoal' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1093 ms
+[3] 11:22:55: Search started on 'Confirmar Número Pessoal' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 23,7938 ms
+[3] 11:22:55: Search started on 'Informar INFOTIPO' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,2084 ms
+[3] 11:22:55: Search started on 'Confirmar INFOTIPO' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,356 ms
+[3] 11:22:55: Search started on 'Informar Período' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,253 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1322 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 1 results in 0,1566 ms
+[3] 11:22:55: Search started on 'Acessar "Ir para Entrada em Lista"' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,201 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1693 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 1 results in 0,1381 ms
+[3] 11:22:55: Search started on 'Página nova para Novo registro' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,152 ms
+[3] 11:22:55: Search started on 'Informar Data de Inicio' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1653 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1732 ms
+[3] 11:22:55: Search started on 'Informar Hora de Inicio' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1277 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1309 ms
+[3] 11:22:55: Search started on 'Informar Tipo de Evento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0964 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1306 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1647 ms
+[3] 11:22:55: Search started on 'Informar Motivo' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,2577 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1017 ms
+[3] 11:22:55: Search started on 'Página nova para Novo registro' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0958 ms
+[3] 11:22:55: Search started on 'Informar Data de Inicio' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0949 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1586 ms
+[3] 11:22:55: Search started on 'Informar Hora de Inicio' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1718 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1503 ms
+[3] 11:22:55: Search started on 'Informar Tipo de Evento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1406 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1311 ms
+[3] 11:22:55: Search started on 'Pressionar TAB' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,3079 ms
+[3] 11:22:55: Search started on 'Informar Motivo' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1596 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1115 ms
+[3] 11:22:55: Search started on 'Ordenar dados' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0969 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0812 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 1 results in 0,0784 ms
+[3] 11:22:55: Search started on 'Salvar Apontamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0973 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0735 ms
+[3] 11:22:55: Search started on 'Informar Número Pessoal com zero' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0973 ms
+[3] 11:22:55: Search started on 'Pressionar ENTER' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,093 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0762 ms
+[3] 11:22:55: Search started on 'Abrir janela GUI Nova' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0928 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0864 ms
+[3] 11:22:55: Search started on 'Informar Transanção' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0975 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0744 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 1 results in 0,104 ms
+[3] 11:22:55: Search started on 'Confirmar Transação' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1011 ms
+[3] 11:22:55: Search started on 'Informar Número Pessoal' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1336 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0762 ms
+[3] 11:22:55: Search started on 'Informar Parâmetros' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1281 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0751 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 1 results in 0,0784 ms
+[3] 11:22:55: Search started on 'Acionar Executar' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,2308 ms
+[3] 11:22:55: Search started on 'Validar confirmação dos apontamentos' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,2361 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1238 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 1 results in 0,1328 ms
+[3] 11:22:55: Search started on 'Abrir janela GUI Nova' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1055 ms
+[3] 11:22:55: Search started on 'Informar Transanção PT_BALL00' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1136 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0828 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 1 results in 0,0898 ms
+[3] 11:22:55: Search started on 'Confirmar Transação' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1069 ms
+[3] 11:22:55: Search started on 'Acionar botão Chamar Variante' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1 ms
+[3] 11:22:55: Search started on 'Apagar usuário' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1089 ms
+[3] 11:22:55: Search started on 'Informar VARIANTE' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1172 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0762 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 1 results in 0,0845 ms
+[3] 11:22:55: Search started on 'Executar' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0945 ms
+[3] 11:22:55: Search started on 'Informar numero pessoal e intervalo de tempo' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1396 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0723 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 1 results in 0,0756 ms
+[3] 11:22:55: Search started on 'Acionar Executar' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,1155 ms
+[3] 11:22:55: Search started on 'Validar página de Resultados avaliaç.tmps.acumulados - salds.hrs./rubrs.salariais tempo' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,108 ms
+[3] 11:22:55: Search started on 'Aguardar Carregamento' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 0 results in 0,0748 ms
+[3] 11:22:55: Search started on 'Captura de Tela' for query '->Union(->Self,->TestStepValueLogsInRightOrder,=>SUBPARTS)[Detail=~"jpg|png"]'
+[3] 11:22:55: Searcher found 1 results in 0,0744 ms
+[3] 11:22:55: Search started on 'Neoenergia_1' for query '->ActualLog:ExecutionTestCaseLog'
+[3] 11:22:55: Searcher found 0 results in 0,1825 ms
+[3] 11:22:55: Search started on 'Neoenergia_2' for query '->ActualLog:ExecutionTestCaseLog'
+[3] 11:22:55: Searcher found 0 results in 0,0578 ms
+[3] 11:22:55: Search started on 'Neoenergia_3' for query '->ActualLog:ExecutionTestCaseLog'
+[3] 11:22:55: Searcher found 0 results in 0,0409 ms
+[3] 11:22:55: Search started on 'Neoenergia_4' for query '->ActualLog:ExecutionTestCaseLog'
+[3] 11:22:55: Searcher found 0 results in 0,0301 ms
+[4] 11:24:06:  ShowStatusInfo: 'Ready'
+[4] 11:24:06:  ShowStatusInfo: 'ExecutionEntries with detailed Logs finished'
+[3] 11:24:06: Task 'Print Report ... ExecutionEntries with detailed Logs' finished
+[4] 11:24:11:  ShowStatusInfo: 'Ready'
+[4] 11:25:05:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:25:05:  ShowStatusInfo: 'Ready'
+[4] 11:25:05:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:25:05:  ShowStatusInfo: 'Ready'
+[4] 11:25:05:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:25:10:  ShowStatusInfo: 'Ready'
+[4] 11:27:33:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:27:33:  ShowStatusInfo: 'Ready'
+[4] 11:27:33:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:27:33:  ShowStatusInfo: 'Ready'
+[4] 11:27:33:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:27:38:  ShowStatusInfo: 'Ready'
+[4] 11:27:44:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:27:44:  ShowStatusInfo: 'Ready'
+[4] 11:27:44:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:27:44:  ShowStatusInfo: 'Ready'
+[4] 11:27:44:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:27:46:  ShowStatusInfo: '1 object selected'
+[4] 11:27:47:  ShowStatusInfo: 'Ready'
+[4] 11:27:48:  ShowStatusInfo: '1 object selected'
+[4] 11:27:48:  ShowStatusInfo: 'Ready'
+[4] 11:27:49:  ShowStatusInfo: '1 object selected'
+[4] 11:27:49:  ShowStatusInfo: 'Ready'
+[4] 11:27:51:  ShowStatusInfo: '1 object selected'
+[4] 11:27:55:  ShowStatusInfo: 'Ready'
+[4] 11:27:56:  ShowStatusInfo: '1 object selected'
+[4] 11:27:56:  ShowStatusInfo: 'Ready'
+[4] 11:30:01:  ShowStatusInfo: 'Saving ...'
+[3] 11:30:01:  Save started!
+[3] 11:30:01: QTestIntegrationAddIn beginning to Export to QTest
+[3] 11:30:01: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 11:30:01: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 11:30:01: LinkTcToQTestService grouping testcases by same endpoint
+[3] 11:30:01: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 11:30:01: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 11:30:01:  Save finished!
+[4] 11:30:01:  ShowStatusInfo: 'Saved successfully'
+[4] 11:30:01:  ShowStatusInfo: 'Ready'
+[3] 13:31:51: Closing Workspace!
+[3] 13:31:51: Log closed!

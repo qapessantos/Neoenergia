@@ -1,0 +1,58 @@
+[3] 11:33:56: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\NeoEnergia\NeoEnergia.tws'
+[3] 11:33:56: Log level: 4
+[3] 11:33:56: Release: 24.2.0.1807
+[3] 11:33:57: Execution Approval is disabled.
+[3] 11:33:57: No service discovery configured.
+[3] 11:33:57:  + AccessibilityTestingUI: AccessibilityTestingUI 24.2.0.1807 (1807)
+[3] 11:33:57:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 11:33:57:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 11:33:57:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.2.0.1807 (1807)
+[3] 11:33:57:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.2.0.1807 (1807)
+[3] 11:33:57:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.2.0.1807 (1807)
+[3] 11:33:57:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.2.0.1807 (1807)
+[3] 11:33:57:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.2.0.1807 (1807)
+    + : SAPSolutionManagerIntegration 24.2.0.1807 (1807)
+[3] 11:33:57:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.2.0.1807 (1807)
+[3] 11:33:57:  + RemoteControl: RemoteControlAddIn 24.2.0.1807 (1807)
+[3] 11:33:57:  + Reporting: ReportingAddIn 24.2.0.1807 (1807)
+[3] 11:33:57:  + ReportingUI: ReportingUIAddIn 24.2.0.1807 (1807)
+[3] 11:33:57:  + RequirementsManagementAddIn: RequirementsManagement 24.2.0.1807 (1807)
+[3] 11:33:57:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.2.0.1807 (1807)
+[3] 11:33:57:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.2.0.1807 (1807)
+[3] 11:33:57:  + TestCaseDesign: TestCaseDesign 24.2.0.1807 (1807)
+[3] 11:33:57: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\NeoEnergia\NeoEnergia.tws'
+[2] 11:33:57: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 11:36:00:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh navigation view 'Piloto''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:36:01:  ShowStatusInfo: 'Ready'
+[4] 11:36:01:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 11:36:01:  ShowStatusInfo: 'Ready'
+[4] 11:36:01:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh detail view 'Piloto''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:36:01:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:36:01:  ShowStatusInfo: 'Ready'
+[4] 11:36:02:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:36:02:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 11:36:02:  ShowStatusInfo: 'Ready'
+[4] 11:36:02:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:36:02:  ShowStatusInfo: 'Refresh all finished'
+[3] 11:36:04: OpenWorkspace took 00:02:12.1943003 to finish
+[2] 11:36:04: Common repository is not available
+[4] 11:36:07:  ShowStatusInfo: 'Ready'
+[3] 11:49:05: Closing Workspace!
+[3] 11:49:05: Log closed!

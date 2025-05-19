@@ -1,0 +1,25 @@
+[Info] 03/04/2025 16:03:55: 49/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 03/04/2025 16:03:56: Compacting started
+[Info] 03/04/2025 16:03:56: 58/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 03/04/2025 16:03:57: 67/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 03/04/2025 16:03:58: 76/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 03/04/2025 16:03:58: Compacting Workspace - Defragmentation finished in 00:00:02.4726064, database size: 19800064
+[Info] 03/04/2025 16:03:59: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.1022766, database size: 19800064
+[Info] 03/04/2025 16:03:59: Compacting finished
+[Info] 03/04/2025 16:03:59: 85/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 03/04/2025 16:04:00: 94/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 03/04/2025 16:04:01: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 03/04/2025 16:04:02: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 03/04/2025 16:04:03: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 15/04/2025 09:58:17: 48/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 15/04/2025 09:58:17: Compacting started
+[Info] 15/04/2025 09:58:18: 57/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 15/04/2025 09:58:19: 66/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 15/04/2025 09:58:19: Compacting Workspace - Defragmentation finished in 00:00:01.0158497, database size: 19800064
+[Info] 15/04/2025 09:58:19: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.1101972, database size: 19800064
+[Info] 15/04/2025 09:58:19: Compacting finished
+[Info] 15/04/2025 09:58:20: 75/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 15/04/2025 09:58:21: 84/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 15/04/2025 09:58:22: 93/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 15/04/2025 09:58:23: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 15/04/2025 09:58:24: 99/100 - Defragmenting Data - [estimated time left 0 s]
